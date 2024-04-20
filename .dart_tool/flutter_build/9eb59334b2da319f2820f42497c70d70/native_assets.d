@@ -1,0 +1,1 @@
+ /Users/karandeepsingh/Truck_Chat/.dart_tool/flutter_build/9eb59334b2da319f2820f42497c70d70/native_assets.yaml: 
